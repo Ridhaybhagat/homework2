@@ -1,0 +1,13 @@
+#main {
+    width: auto;
+    height: 300px;
+}
+
+table,
+th,
+td {
+
+    border: 1px solid black;
+    text-align: center;
+    border-spacing: 3px;
+}
